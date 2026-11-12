@@ -33,6 +33,10 @@ Variant annotation is transcript-dependent and does not establish clinical patho
 
 Expected amplicon length: **488 bp**
 
+## Primer Design Map
+
+![CA2 primer map](results/figures/CA2_primer_map.svg)
+
 ## Workflow
 
 1. Extracted the target region from the hg19 chromosome 8 reference.
